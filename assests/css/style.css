@@ -182,3 +182,10 @@ hr {
     overflow: hidden;
     border-radius: 50%;
 }
+
+#times {
+    background: url('../img/dublin-city.png') no-repeat center center/cover;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
